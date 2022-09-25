@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="Node.js Core" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "javascript.nodejs.core.library.configured.version": "16.17.1",
+    "javascript.nodejs.core.library.typings.version": "16.11.60",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "C:\\Program Files\\nodejs\\npm.cmd",
+    "settings.editor.selected.configurable": "settings.nodejs"
+  }
+}]]></component>
+    </defaultProject>
+  </component>
+</application>
