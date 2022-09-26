@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="meetclover" id="3fb129dc-8492-4278-b002-461b6bd52668">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
