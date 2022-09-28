@@ -17,7 +17,7 @@
 const $ = new Env("快音");
 const notify = $.isNode() ? require("./sendNotify") : "";
 const Notify = 1 		//0为关闭通知,1为打开通知,默认为1
-let scriptVersion = '2.0';
+let scriptVersion = "2.0";
 let scriptVersionLatest = '1.0';
 //---------------------------------------------------------------------------------------------------------
 const alias_name = 'kuaiyin1'
